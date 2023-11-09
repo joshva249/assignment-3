@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  
+}
+
+ul {
+  list-style-type: none;
+  padding: 50;
+  background-color: aquamarine;
+  margin-left: 550px;
+  margin-right:550px;
+  
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 5px;
+  
+}
+
+h1{
+  color: red;
+  
+}
+input {
+  margin-right: 10px;
+  background-color: rgb(122, 20, 20);
+  color: rgb(255, 217, 0);
+  
+}
+
+button{
+  color: beige;
+  background-color: black;
+  font-weight: bold;
+}
+button:hover{
+  background-color: rgb(224, 6, 79);
+  color: blue;
+  font-weight: bold;
+}
